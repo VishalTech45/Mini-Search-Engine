@@ -489,6 +489,41 @@
       "timestamp": "2026-10-31 22:57:25",
       "resultCount": 6,
       "selectedDocument": "database.txt"
+    },
+    {
+      "query": "Python",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:10:25",
+      "resultCount": 3,
+      "selectedDocument": "data_science.txt"
+    },
+    {
+      "query": "python",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:11:36",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "Fuck You",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:13:54",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "Fuck you ",
+      "mode": "OR",
+      "timestamp": "2026-11-01 13:14:14",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "Python",
+      "mode": "OR",
+      "timestamp": "2026-11-01 13:14:40",
+      "resultCount": 3,
+      "selectedDocument": ""
     }
   ]
 }

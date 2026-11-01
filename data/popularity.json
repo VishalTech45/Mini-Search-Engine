@@ -1,16 +1,17 @@
 {
   "popularity": {
-    "search": {
-      "database.txt": 1
-    },
-    "ai": {
-      "artificial_intelligence.txt": 1
+    "python": {
+      "data_science.txt": 1,
+      "python.txt": 1
     },
     "binary search": {
       "dsa.txt": 1
     },
-    "python": {
-      "python.txt": 1
+    "ai": {
+      "artificial_intelligence.txt": 1
+    },
+    "search": {
+      "database.txt": 1
     }
   }
 }
