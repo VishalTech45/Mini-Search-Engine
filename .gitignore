@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+bin/
+lib/
+out/
+*.exe
+*.o
+*.obj
+*.a
+*.dll
+*.pdb
+*.ilk
+.ninja_*
+compile_commands.json
+
+# Temporary and backup data files
+data/*.tmp
+data/*.corrupted.*
+scratch/
+
+# IDE / Editor artifacts
+.vscode/
+.vs/
+.idea/
+*.swp
+*.user

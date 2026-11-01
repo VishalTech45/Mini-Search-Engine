@@ -1,0 +1,10 @@
+Computer architecture defines the conceptual design, organization, and fundamental operational structure of computer systems and central processing units (CPU).
+Von Neumann architecture organizes hardware into a central processing unit containing an Arithmetic Logic Unit (ALU) and registers, a control unit, memory, and input/output mechanisms.
+Instruction Set Architecture (ISA) serves as the interface between software and hardware, categorized broadly into Reduced Instruction Set Computers (RISC) and Complex Instruction Set Computers (CISC).
+Popular instruction set architectures include x86-64, ARM, and open-source RISC-V architectures.
+Instruction pipelining overlaps sequential instruction execution stages (Fetch, Decode, Execute, Memory Access, Write Back) to dramatically increase instruction throughput.
+Pipeline hazards (structural hazards, data hazards, and control hazards) are mitigated through register forwarding, out-of-order execution, and dynamic branch prediction algorithms.
+Memory hierarchy bridges the latency gap between fast CPU registers and slower main memory using L1, L2, and L3 static RAM cache levels.
+Cache coherence protocols such as MESI (Modified, Exclusive, Shared, Invalid) preserve consistent memory states across multi-core symmetric multiprocessing (SMP) processors.
+Virtual memory hardware support incorporates Translation Lookaside Buffers (TLB) and page tables to map process virtual addresses to physical RAM frames.
+Superscalar architectures utilize multiple execution pipelines to dispatch and execute several independent instructions per clock cycle.

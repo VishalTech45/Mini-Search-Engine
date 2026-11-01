@@ -1,0 +1,494 @@
+{
+  "history": [
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:16:42",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:16:42",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:16:42",
+      "resultCount": 5,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic_extraterrestrial_query",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:16:42",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:29",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:17:29",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:29",
+      "resultCount": 5,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:29",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:17:29",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:29",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:42",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:17:42",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:42",
+      "resultCount": 5,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:42",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:17:42",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:42",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:17:52",
+      "resultCount": 1,
+      "selectedDocument": "python.txt"
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:18:02",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:18:11",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:20:03",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:20:03",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:20:03",
+      "resultCount": 5,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:20:03",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 19:20:03",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 19:20:03",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:10:15",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:10:15",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:10:15",
+      "resultCount": 5,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:10:15",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:10:15",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:10:15",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:12:13",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:12:13",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:12:13",
+      "resultCount": 5,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:12:13",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:12:13",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:12:13",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "Array",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:15:18",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "Heap",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:15:37",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:16:55",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:16:55",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:16:55",
+      "resultCount": 5,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:16:55",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:16:55",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:16:55",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:22:39",
+      "resultCount": 2,
+      "selectedDocument": "dsa.txt"
+    },
+    {
+      "query": "Heap",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:33:20",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:36:54",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:36:54",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:36:54",
+      "resultCount": 6,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:36:54",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:36:54",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:36:54",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "kubernetes docker cloud",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:37:03",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "cryptography security",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:37:03",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:37:38",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:37:38",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:37:38",
+      "resultCount": 6,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:37:38",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:37:38",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:37:38",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:40:50",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:40:50",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:40:50",
+      "resultCount": 6,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:40:50",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:40:50",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-10-31 22:40:50",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "Hii",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:41:38",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "AI",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:42:37",
+      "resultCount": 1,
+      "selectedDocument": "artificial_intelligence.txt"
+    },
+    {
+      "query": "Search",
+      "mode": "AND",
+      "timestamp": "2026-10-31 22:57:25",
+      "resultCount": 6,
+      "selectedDocument": "database.txt"
+    }
+  ]
+}

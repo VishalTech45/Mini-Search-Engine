@@ -1,0 +1,10 @@
+Cloud computing delivers on-demand computing services, including servers, storage, databases, networking, software, and analytics over the internet.
+Cloud service models include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), and Function as a Service (FaaS).
+Major public cloud providers comprise Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+Containerization technologies like Docker package applications and their runtime dependencies into lightweight, portable, and isolated execution containers.
+Container orchestration platforms like Kubernetes automate deployment, horizontal autoscaling, load balancing, health monitoring, and self-healing across cluster nodes.
+Serverless architecture decouples developers from infrastructure management by executing discrete, event-driven functions that scale dynamically based on request traffic.
+Cloud storage solutions provide scalable object storage (such as Amazon S3), managed relational and NoSQL databases, and high-performance distributed file systems.
+Multi-region cloud deployments enhance system resilience, disaster recovery, and latency minimization by distributing application traffic closer to end users.
+Cloud security architecture incorporates Identity and Access Management (IAM), role-based access control, virtual private clouds (VPC), and data encryption in transit and at rest.
+FinOps and cloud cost management monitor resource utilization, autoscaling policies, and reserved instances to optimize infrastructure expenditure.

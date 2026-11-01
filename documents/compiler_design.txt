@@ -1,0 +1,10 @@
+Compiler design explores the theoretical principles and implementation techniques for translating high-level programming languages into executable machine code or bytecode.
+The compilation pipeline comprises analysis (front end) and synthesis (back end) phases.
+Lexical analysis (scanning) converts source code characters into a stream of meaningful tokens using regular expressions and deterministic finite automata (DFA).
+Syntax analysis (parsing) validates token streams against formal context-free grammars (CFG) using LL, LR, LALR, or recursive descent parsers, generating Abstract Syntax Trees (AST).
+Semantic analysis verifies type consistency, identifier scope resolution, variable declarations, and type checking using symbol tables.
+Intermediate code generation transforms parse trees into machine-independent intermediate representations (IR), such as three-address code (TAC) or static single assignment (SSA) form.
+Code optimization analyzes control flow graphs (CFG) and data flow to perform common subexpression elimination, dead code removal, loop unrolling, and inlining.
+Target code generation maps intermediate representations onto target hardware architecture instructions, managing register allocation via graph coloring algorithms.
+Instruction scheduling reorders machine instructions to minimize pipeline stalls and optimize execution on superscalar processor microarchitectures.
+Modern compiler frameworks like LLVM and GCC use modular intermediate representations and pluggable optimization passes to support diverse frontend languages and backend targets.

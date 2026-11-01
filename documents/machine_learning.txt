@@ -1,0 +1,10 @@
+Machine learning is a subfield of artificial intelligence dedicated to building computational models that learn from data and experience without explicit programming.
+Machine learning paradigms encompass supervised learning, unsupervised learning, semi-supervised learning, and reinforcement learning.
+Supervised learning tasks include regression for continuous numerical predictions and classification for discrete categorical outcomes.
+Common supervised algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines (SVM).
+Unsupervised learning discovers latent patterns, groupings, and structures through clustering algorithms like K-means and DBSCAN, as well as dimensionality reduction via PCA.
+Reinforcement learning trains autonomous agents to maximize cumulative scalar rewards through trial-and-error environmental interactions and Markov Decision Processes.
+Deep learning utilizes artificial neural networks with multiple hidden layers, using backpropagation and gradient descent to learn hierarchical representations.
+Convolutional neural networks (CNN) excel in computer vision tasks, while recurrent architectures and Transformers dominate natural language processing (NLP).
+Model evaluation metrics include accuracy, precision, recall, F1-score, ROC-AUC, mean squared error (MSE), and cross-validation techniques to prevent overfitting.
+Feature engineering, data preprocessing, normalization, and hyperparameter tuning are vital stages in the machine learning workflow.

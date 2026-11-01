@@ -1,0 +1,10 @@
+A database management system (DBMS) is specialized software for defining, creating, maintaining, and querying structured data.
+Relational database management systems (RDBMS) organize data into tables consisting of rows and columns linked by primary and foreign keys.
+Structured Query Language (SQL) is the standard declarative language for interacting with relational databases through queries, joins, and aggregations.
+Transactions adhere to ACID properties: Atomicity, Consistency, Isolation, and Durability, ensuring reliability under concurrent access and hardware crashes.
+Concurrency control techniques include two-phase locking (2PL), multi-version concurrency control (MVCC), and optimistic concurrency control.
+Database normalization reduces data redundancy and anomalies through first, second, third, and Boyce-Codd normal forms.
+Indexing structures such as B-trees, B+ trees, and hash indexes dramatically accelerate query search performance by minimizing disk block reads.
+Query optimization engines analyze execution plans, join order algorithms, and cost estimations to minimize query latency.
+NoSQL databases offer alternative data models including document stores (MongoDB), key-value stores (Redis), wide-column stores (Cassandra), and graph databases (Neo4j).
+Distributed database architectures address high availability, horizontal partitioning (sharding), replication, and CAP theorem trade-offs.

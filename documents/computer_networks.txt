@@ -1,0 +1,10 @@
+Computer networks connect distributed autonomous computing devices to exchange data and share hardware and software resources.
+The Open Systems Interconnection (OSI) reference model conceptualizes network communication across seven layers: physical, data link, network, transport, session, presentation, and application.
+The practical Internet protocol suite is organized around the TCP/IP model, featuring link, internet, transport, and application layers.
+The Internet Protocol (IPv4 and IPv6) handles logical addressing, packet routing, and packet fragmentation across intermediate routers.
+Transport layer protocols provide end-to-end communication: Transmission Control Protocol (TCP) guarantees reliable, ordered, byte-stream delivery with congestion control.
+User Datagram Protocol (UDP) offers lightweight, connectionless, low-latency transmission ideal for real-time video streaming, gaming, and DNS lookups.
+Domain Name System (DNS) maps human-readable domain names into numerical IP addresses across hierarchical distributed nameservers.
+Application layer protocols include HTTP and HTTPS for secure web communication, SSH for encrypted remote administration, and SMTP for email transfer.
+Network security mechanisms incorporate firewalls, transport layer security (TLS/SSL) encryption, public key infrastructure (PKI), and intrusion detection systems.
+Software-defined networking (SDN) and cloud networking decouple control planes from data planes for programmable dynamic network management.

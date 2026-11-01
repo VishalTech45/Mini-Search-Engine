@@ -1,0 +1,10 @@
+Cybersecurity encompasses technologies, processes, and practices designed to protect computer networks, devices, programs, and data from unauthorized access, attacks, and damage.
+The foundational triad of information security consists of Confidentiality, Integrity, and Availability (the CIA triad).
+Cryptography forms the technical backbone of data security through symmetric key algorithms (AES, ChaCha20) and asymmetric public key cryptosystems (RSA, ECC, Diffie-Hellman).
+Cryptographic hash functions like SHA-256 and SHA-3 provide tamper-evident data integrity verification, digital signatures, and password hashing with salt and bcrypt.
+Network security mechanisms deploy firewalls, intrusion detection and prevention systems (IDS/IPS), virtual private networks (VPN), and transport layer security (TLS/SSL).
+Common cyber threats include malware, ransomware, phishing, man-in-the-middle attacks, denial-of-service (DoS/DDoS), and SQL injection vulnerabilities.
+Zero Trust architecture enforces strict identity verification for every user and device attempting to access network resources, operating under the principle of never trust, always verify.
+Penetration testing and ethical hacking simulate malicious cyberattacks to identify software vulnerabilities and security misconfigurations before adversary exploitation.
+Security Operations Centers (SOC) monitor telemetry logs, Security Information and Event Management (SIEM) systems, and orchestrate automated incident response.
+Regulatory compliance frameworks like GDPR, HIPAA, and ISO 27001 establish strict legal standards for data privacy, breach notifications, and risk management.

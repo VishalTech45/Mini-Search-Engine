@@ -1,0 +1,10 @@
+A distributed system consists of multiple autonomous computing entities that communicate over computer networks and coordinate actions through message passing.
+Core design goals of distributed systems include high availability, horizontal scalability, fault tolerance, resource sharing, and transparency.
+The CAP theorem (Brewer's theorem) asserts that a distributed data store can guarantee at most two of three properties simultaneously: Consistency, Availability, and Partition Tolerance.
+Consensus algorithms ensure distributed nodes agree on system state despite network latency and node crashes. Leading consensus protocols include Paxos and Raft.
+Distributed data replication techniques utilize leader-follower (primary-backup) topologies, multi-leader replication, and leaderless quorum-based replication (Dynamo style).
+Eventual consistency models accept temporary stale data reads in exchange for low latency and high availability, converging toward consistency over time.
+Data partitioning (sharding) splits large datasets across independent database nodes using hash partitioning or range partitioning to overcome storage and throughput limitations.
+Remote Procedure Call (RPC) frameworks like gRPC use Protocol Buffers to serialize strongly-typed data and invoke remote server procedures with low network overhead.
+Distributed transactions coordinate multi-node atomic operations using the Two-Phase Commit (2PC) protocol or asynchronous saga patterns.
+Distributed tracing and observability tools track message flows and bottlenecks across complex microservice architectures using distributed correlation IDs.

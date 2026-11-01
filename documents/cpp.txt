@@ -1,0 +1,10 @@
+C++ is a high-performance compiled programming language created by Bjarne Stroustrup as an extension of C.
+Modern C++ (C++11, C++14, C++17, and C++20) emphasizes type safety, resource acquisition is initialization (RAII), and zero-overhead abstractions.
+Memory management in C++ can be explicit using pointers or automated using smart pointers such as unique_ptr, shared_ptr, and weak_ptr.
+The Standard Template Library (STL) provides rich containers including vector, list, deque, map, unordered_map, and set.
+Generic programming with C++ templates enables code reusability without sacrificing runtime efficiency.
+Object-oriented programming in C++ is supported through classes, inheritance, polymorphism, encapsulation, and virtual functions.
+Move semantics and rvalue references minimize unnecessary copying of expensive objects, boosting performance.
+C++ is widely used in systems programming, game development, financial trading platforms, embedded systems, and search engine backends.
+Concurrency in C++ is supported through std::thread, mutexes, condition variables, and atomic operations.
+Modern C++17 introduces std::filesystem, std::optional, std::variant, and structured bindings for elegant systems code.

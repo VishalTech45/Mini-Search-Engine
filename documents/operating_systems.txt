@@ -1,0 +1,10 @@
+An operating system (OS) acts as an intermediary between computer hardware and user applications.
+Key functions of an operating system include process management, memory management, storage management, device management, and security.
+Processes represent programs in execution, managed through process control blocks (PCB), CPU scheduling algorithms, and context switching.
+Multithreading enables concurrent execution paths within a single process address space, requiring synchronization mechanisms to prevent race conditions.
+Concurrency synchronization primitives include mutexes, semaphores, spinlocks, condition variables, and barriers.
+Deadlock occurs when processes are blocked waiting for resources held by each other, resolved via prevention, avoidance (Banker's algorithm), or detection.
+Virtual memory management decouples logical memory addresses from physical RAM using paging, segmentation, and translation lookaside buffers (TLB).
+Page replacement algorithms like Least Recently Used (LRU), FIFO, and optimal page replacement minimize disk paging thrashing.
+File systems organize storage devices hierarchically, providing directories, file descriptors, access permissions, and journaled data integrity.
+Modern operating systems like Linux, Windows, and macOS utilize monolithic or hybrid kernels supporting multitasking and hardware virtualization.
