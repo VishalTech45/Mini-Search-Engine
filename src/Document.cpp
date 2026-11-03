@@ -25,11 +25,7 @@ namespace {
     }
 }
 
-Document::Document(uint32_t id,
-                   std::string filename,
-                   std::string filepath,
-                   std::string content,
-                   size_t wordCount,
+Document::Document(uint32_t id,std::string filename,std::string filepath,std::string content, size_t wordCount,
                    size_t fileSize,
                    std::filesystem::file_time_type lastModified)
     : id_(id),

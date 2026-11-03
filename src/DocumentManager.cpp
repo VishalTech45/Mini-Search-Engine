@@ -18,7 +18,7 @@ bool DocumentManager::readFileContents(const fs::path& path, std::string& outCon
         return false;
     }
     outSize = static_cast<size_t>(size);
-
+    
     file.seekg(0, std::ios::beg);
     outContent.resize(outSize);
     if (outSize > 0) {

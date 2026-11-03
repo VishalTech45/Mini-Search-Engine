@@ -449,27 +449,6 @@
       "selectedDocument": ""
     },
     {
-      "query": "xylophonic extraterrestrial nonsenseqwerty",
-      "mode": "OR",
-      "timestamp": "2026-10-31 22:40:50",
-      "resultCount": 0,
-      "selectedDocument": ""
-    },
-    {
-      "query": "python nonexistentqwertyxyz",
-      "mode": "AND",
-      "timestamp": "2026-10-31 22:40:50",
-      "resultCount": 0,
-      "selectedDocument": ""
-    },
-    {
-      "query": "the and of",
-      "mode": "OR",
-      "timestamp": "2026-10-31 22:40:50",
-      "resultCount": 0,
-      "selectedDocument": ""
-    },
-    {
       "query": "Hii",
       "mode": "AND",
       "timestamp": "2026-10-31 22:41:38",
@@ -505,23 +484,170 @@
       "selectedDocument": ""
     },
     {
-      "query": "Fuck You",
-      "mode": "AND",
-      "timestamp": "2026-11-01 13:13:54",
-      "resultCount": 0,
-      "selectedDocument": ""
-    },
-    {
-      "query": "Fuck you ",
-      "mode": "OR",
-      "timestamp": "2026-11-01 13:14:14",
-      "resultCount": 0,
-      "selectedDocument": ""
-    },
-    {
       "query": "Python",
       "mode": "OR",
       "timestamp": "2026-11-01 13:14:40",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "Ironman",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:35:45",
+      "resultCount": 1,
+      "selectedDocument": "aaaa.txt"
+    },
+    {
+      "query": "Doomsday",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:37:31",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "doomsday",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:38:13",
+      "resultCount": 1,
+      "selectedDocument": "aaaa.txt"
+    },
+    {
+      "query": "doomsday",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:39:31",
+      "resultCount": 1,
+      "selectedDocument": "aaaa.txt"
+    },
+    {
+      "query": "ironman",
+      "mode": "AND",
+      "timestamp": "2026-11-01 13:39:51",
+      "resultCount": 1,
+      "selectedDocument": "aaaa.txt"
+    },
+    {
+      "query": "Encapsulation",
+      "mode": "AND",
+      "timestamp": "2026-11-01 16:00:21",
+      "resultCount": 2,
+      "selectedDocument": "oops.txt"
+    },
+    {
+      "query": "python",
+      "mode": "AND",
+      "timestamp": "2026-11-01 17:53:01",
+      "resultCount": 3,
+      "selectedDocument": "python.txt"
+    },
+    {
+      "query": "python",
+      "mode": "AND",
+      "timestamp": "2026-11-01 17:54:59",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "IRONMAN",
+      "mode": "AND",
+      "timestamp": "2026-11-01 17:56:33",
+      "resultCount": 1,
+      "selectedDocument": "aaaa.txt"
+    },
+    {
+      "query": "hacking",
+      "mode": "AND",
+      "timestamp": "2026-11-01 22:35:26",
+      "resultCount": 1,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-11-01 23:39:45",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-11-01 23:39:45",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-11-01 23:39:45",
+      "resultCount": 6,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python",
+      "mode": "OR",
+      "timestamp": "2026-11-03 13:46:26",
+      "resultCount": 3,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "AND",
+      "timestamp": "2026-11-03 13:46:26",
+      "resultCount": 2,
+      "selectedDocument": ""
+    },
+    {
+      "query": "binary search",
+      "mode": "OR",
+      "timestamp": "2026-11-03 13:46:26",
+      "resultCount": 6,
+      "selectedDocument": ""
+    },
+    {
+      "query": "xylophonic extraterrestrial nonsenseqwerty",
+      "mode": "OR",
+      "timestamp": "2026-11-03 13:46:26",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "python nonexistentqwertyxyz",
+      "mode": "AND",
+      "timestamp": "2026-11-03 13:46:26",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "the and of",
+      "mode": "OR",
+      "timestamp": "2026-11-03 13:46:26",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "cat",
+      "mode": "AND",
+      "timestamp": "2026-11-03 14:11:20",
+      "resultCount": 0,
+      "selectedDocument": ""
+    },
+    {
+      "query": "model",
+      "mode": "AND",
+      "timestamp": "2026-11-03 14:11:45",
+      "resultCount": 4,
+      "selectedDocument": "data_science.txt"
+    },
+    {
+      "query": "model",
+      "mode": "AND",
+      "timestamp": "2026-11-03 14:12:59",
+      "resultCount": 4,
+      "selectedDocument": "computer_networks.txt"
+    },
+    {
+      "query": "Python",
+      "mode": "AND",
+      "timestamp": "2026-11-03 14:36:41",
       "resultCount": 3,
       "selectedDocument": ""
     }

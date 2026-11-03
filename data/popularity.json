@@ -1,8 +1,11 @@
 {
   "popularity": {
+    "encapsulation": {
+      "oops.txt": 1
+    },
     "python": {
       "data_science.txt": 1,
-      "python.txt": 1
+      "python.txt": 2
     },
     "binary search": {
       "dsa.txt": 1
@@ -10,8 +13,18 @@
     "ai": {
       "artificial_intelligence.txt": 1
     },
+    "ironman": {
+      "aaaa.txt": 3
+    },
     "search": {
       "database.txt": 1
+    },
+    "doomsday": {
+      "aaaa.txt": 2
+    },
+    "model": {
+      "data_science.txt": 1,
+      "computer_networks.txt": 1
     }
   }
 }
